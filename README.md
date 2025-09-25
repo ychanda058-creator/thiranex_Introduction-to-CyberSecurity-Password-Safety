@@ -14,7 +14,7 @@
  ## Installation
  Step-by-Step Installation-
 1. Clone the Repository
-bashgit clone https://github.com/username/password-strength-checker.git
+bashgit clone https://github.com/ychanda058-creator/thiranex_Introduction-to-CyberSecurity-Password-Safety.git
 cd password-strength-checker
 2. Create Virtual Environment (Recommended)
    # Create virtual environment
